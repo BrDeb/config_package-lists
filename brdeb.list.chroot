@@ -44,3 +44,8 @@ kde-config-gtk-style
 
 # splash
 plymouth
+
+# fontes
+fonts-noto
+fonts-noto-cjk
+fonts-noto-color-emoji
