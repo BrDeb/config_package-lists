@@ -1,43 +1,36 @@
-# base plasma
+# plasma
 plasma-desktop
 sddm
-kwin-x11
-kdialog
 
-# apps plasma
+# kde apps
+dolphin
 konsole
 kate
-dolphin
-ark
 gwenview
 okular
+ark
 
-# integração
+# network/audio
+network-manager
 plasma-nm
-plasma-pa
-powerdevil
-bluedevil
+pipewire
+wireplumber
+pipewire-pulse
 
-# temas gtk
-breeze-gtk-theme
-kde-config-gtk-style
+# firefox
+firefox-esr
 
-# firefox normal
-firefox
-
-# libreoffice mínimo
+# libreoffice minimal
 libreoffice-writer
 libreoffice-calc
 libreoffice-impress
 
-# pt-br
+# localization
 libreoffice-l10n-pt-br
 libreoffice-help-pt-br
-
-# integração qt/kde
 libreoffice-kf6
 
-# utilitários
+# utilities
 sudo
 curl
 wget
@@ -45,25 +38,9 @@ git
 unzip
 p7zip-full
 
-# áudio
-pipewire
-wireplumber
-pipewire-pulse
+# themes
+breeze-gtk-theme
+kde-config-gtk-style
 
-# rede
-network-manager
-
-# firmware
-firmware-linux
-firmware-linux-free
-firmware-linux-nonfree
-firmware-realtek
-firmware-iwlwifi
-
-# boot splash
+# splash
 plymouth
-
-# fontes
-fonts-noto
-fonts-noto-cjk
-fonts-noto-color-emoji
