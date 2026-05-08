@@ -1,0 +1,69 @@
+# base plasma
+plasma-desktop
+sddm
+kwin-x11
+kdialog
+
+# apps plasma
+konsole
+kate
+dolphin
+ark
+gwenview
+okular
+
+# integração
+plasma-nm
+plasma-pa
+powerdevil
+bluedevil
+
+# temas gtk
+breeze-gtk-theme
+kde-config-gtk-style
+
+# firefox normal
+firefox
+
+# libreoffice mínimo
+libreoffice-writer
+libreoffice-calc
+libreoffice-impress
+
+# pt-br
+libreoffice-l10n-pt-br
+libreoffice-help-pt-br
+
+# integração qt/kde
+libreoffice-kf6
+
+# utilitários
+sudo
+curl
+wget
+git
+unzip
+p7zip-full
+
+# áudio
+pipewire
+wireplumber
+pipewire-pulse
+
+# rede
+network-manager
+
+# firmware
+firmware-linux
+firmware-linux-free
+firmware-linux-nonfree
+firmware-realtek
+firmware-iwlwifi
+
+# boot splash
+plymouth
+
+# fontes
+fonts-noto
+fonts-noto-cjk
+fonts-noto-color-emoji
